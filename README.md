@@ -1,5 +1,11 @@
 # 🛍️ Product Page Design
 
+## 📽️ Demo
+
+> Explore the key features of the **BM-Feast App** in this walkthrough video:
+
+![Image](https://github.com/user-attachments/assets/f16774bb-0d60-45f0-b433-68f22ed34075)
+
 A responsive and interactive **Product Page Design** that showcases a product gallery, dynamic image switching, and customizable options for size, color, and quantity. This project provides a sleek and modern design perfect for e-commerce applications.
 
 ---
@@ -71,8 +77,27 @@ btn[2].onclick = function() {
     this.classList.add("active");
 };
 ```
-## Demo.gif
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
+
+GitHub | urstrulybhavana1432@gmail.com
+
+---
 
 
-![Image](https://github.com/user-attachments/assets/f16774bb-0d60-45f0-b433-68f22ed34075)
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
 
